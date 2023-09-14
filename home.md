@@ -2,3 +2,4 @@
 
 # Dierenambulance home
 
+[about](pages/about.md)
