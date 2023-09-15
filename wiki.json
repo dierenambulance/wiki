@@ -10,7 +10,7 @@
             "action": {
                 "openPage": "wiki/dieren.json"
             },
-            "image": "egel.png",
+            "image": "categorie/dieren",
             "text": "Dieren"
         },
         {
@@ -18,7 +18,7 @@
             "action": {
                 "openPage": "wiki/contracten.json"
             },
-            "image": "categorie/dierenarts.png",
+            "image": "categorie/dierenarts",
             "text": "Dierenartsen"
         },
         {
