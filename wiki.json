@@ -4,29 +4,23 @@
     "items": [
         {
             "type": "imageButtonWithText",
-            "params": {
-                "action": {
-                    "openPage": "wiki/dieren.json"
-                },
-                "image": "egel.png",
-                "text": "Dieren"
-            }
+            "action": {
+                "openPage": "wiki/dieren.json"
+            },
+            "image": "egel.png",
+            "text": "Dieren"
         },
         {
             "type": "imageButtonWithText",
-            "params": {
-                "action": {
-                    "openPage": "wiki/contracten.json"
-                },
-                "image": "contract.png",
-                "text": "Contracten"
-            }
+            "action": {
+                "openPage": "wiki/contracten.json"
+            },
+            "image": "contract.png",
+            "text": "Contracten"
         },
         {
             "type": "textButton",
-            "params": {
-                "text": "Test"
-            }
+            "text": "Test"
         }
     ]
 }
