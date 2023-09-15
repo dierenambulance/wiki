@@ -1,0 +1,24 @@
+{
+    "type": "grid",
+    "items": [
+        {
+            "type": "imageButtonWithText",
+            "params": {
+                "action": {
+                    "openPage": "wiki/dieren.json"
+                },
+                "image": "egel.png",
+                "text": "Dieren"
+            },
+            {
+                "type": "imageButtonWithText",
+                "params": {
+                    "action": {
+                        "openPage": "wiki/contracten.json"
+                    },
+                    "image": "contract.png",
+                    "text": "Contracten"
+                }
+            }
+        ]
+    }
