@@ -10,16 +10,17 @@
                 },
                 "image": "egel.png",
                 "text": "Dieren"
-            },
-            {
-                "type": "imageButtonWithText",
-                "params": {
-                    "action": {
-                        "openPage": "wiki/contracten.json"
-                    },
-                    "image": "contract.png",
-                    "text": "Contracten"
-                }
             }
-        ]
-    }
+        },
+        {
+            "type": "imageButtonWithText",
+            "params": {
+                "action": {
+                    "openPage": "wiki/contracten.json"
+                },
+                "image": "contract.png",
+                "text": "Contracten"
+            }
+        }
+    ]
+}
