@@ -21,6 +21,12 @@
                 "image": "contract.png",
                 "text": "Contracten"
             }
+        },
+        {
+            "type": "textButton",
+            "params": {
+                "text": "Test"
+            }
         }
     ]
 }
