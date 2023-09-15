@@ -21,9 +21,13 @@
             "image": "categorie/dierenarts",
             "text": "Dierenartsen"
         },
-        {
-            "type": "textButton",
-            "text": "Test"
-        }
+           {
+            "type": "imageButtonWithText",
+            "action": {
+                "openPage": "wiki/contracten.json"
+            },
+            "image": "categorie/contracten",
+            "text": "Administratie"
+        },
     ]
 }
