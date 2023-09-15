@@ -18,8 +18,8 @@
             "action": {
                 "openPage": "wiki/contracten.json"
             },
-            "image": "contract.png",
-            "text": "Contracten"
+            "image": "categorie/dierenarts.png",
+            "text": "Dierenartsen"
         },
         {
             "type": "textButton",
