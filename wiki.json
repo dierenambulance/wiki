@@ -1,6 +1,9 @@
 {
     "type": "grid",
     "title": "Daru Wiki",
+    "properties": {
+        "numColumns": 3
+    },
     "items": [
         {
             "type": "imageButtonWithText",
