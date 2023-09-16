@@ -7,7 +7,7 @@
 	"items": [{
 			"type": "imageButtonWithText",
 			"action": {
-				"openPage": "wiki/dieren.json"
+				"openPage": "dieren"
 			},
 			"image": "categorie/dieren",
 			"text": "Dieren"
@@ -15,7 +15,7 @@
 		{
 			"type": "imageButtonWithText",
 			"action": {
-				"openPage": "wiki/contracten.json"
+				"openPage": "dierenartsen"
 			},
 			"image": "categorie/dierenarts",
 			"text": "Dierenartsen"
@@ -23,7 +23,7 @@
 		{
 			"type": "imageButtonWithText",
 			"action": {
-				"openPage": "wiki/contracten.json"
+				"openPage": "administratie"
 			},
 			"image": "categorie/administratie",
 			"text": "Administratie"
