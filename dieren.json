@@ -9,7 +9,7 @@
 			"image": "dieren/egel",
 			"text": "Egels"
 		},
-    {
+		{
 			"type": "imageButtonWithText",
 			"action": {
 				"openPage": "wiki/hond.json"
@@ -17,12 +17,13 @@
 			"image": "dieren/hond",
 			"text": "Honden"
 		},
+		{
 			"type": "imageButtonWithText",
 			"action": {
 				"openPage": "wiki/kat.json"
 			},
 			"image": "dieren/kat",
 			"text": "Katten"
-		},
+		}
 	]
 }
