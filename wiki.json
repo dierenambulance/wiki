@@ -1,33 +1,32 @@
 {
-    "type": "grid",
-    "title": "Daru Wiki",
-    "properties": {
-        "numColumns": 2
-    },
-    "items": [
-        {
-            "type": "imageButtonWithText",
-            "action": {
-                "openPage": "wiki/dieren.json"
-            },
-            "image": "categorie/dieren",
-            "text": "Dieren"
-        },
-        {
-            "type": "imageButtonWithText",
-            "action": {
-                "openPage": "wiki/contracten.json"
-            },
-            "image": "categorie/dierenarts",
-            "text": "Dierenartsen"
-        },
-           {
-            "type": "imageButtonWithText",
-            "action": {
-                "openPage": "wiki/contracten.json"
-            },
-            "image": "categorie/contracten",
-            "text": "Administratie"
-        },
-    ]
+	"type": "grid",
+	"title": "Daru Wiki",
+	"properties": {
+		"numColumns": 2
+	},
+	"items": [{
+			"type": "imageButtonWithText",
+			"action": {
+				"openPage": "wiki/dieren.json"
+			},
+			"image": "categorie/dieren",
+			"text": "Dieren"
+		},
+		{
+			"type": "imageButtonWithText",
+			"action": {
+				"openPage": "wiki/contracten.json"
+			},
+			"image": "categorie/dierenarts",
+			"text": "Dierenartsen"
+		},
+		{
+			"type": "imageButtonWithText",
+			"action": {
+				"openPage": "wiki/contracten.json"
+			},
+			"image": "categorie/contracten",
+			"text": "Administratie"
+		}
+	]
 }
