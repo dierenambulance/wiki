@@ -2,7 +2,7 @@
 	"type": "list",
 	"title": "Dieren",
 	"items": [{
-			"type": "imageButtonWithText",
+			"type": "listItem",
 			"action": {
 				"openPage": "wiki/egels.json"
 			},
@@ -10,7 +10,7 @@
 			"text": "Egels"
 		},
 		{
-			"type": "imageButtonWithText",
+			"type": "listItem",
 			"action": {
 				"openPage": "wiki/hond.json"
 			},
@@ -18,7 +18,7 @@
 			"text": "Honden"
 		},
 		{
-			"type": "imageButtonWithText",
+			"type": "listItem",
 			"action": {
 				"openPage": "wiki/kat.json"
 			},
