@@ -4,7 +4,7 @@
 	"items": [{
 			"type": "listItem",
 			"action": {
-				"openPage": "pages/dieren/egels"
+				"openPage": "pages/dieren/egel"
 			},
 			"image": "dieren/egel",
 			"text": "Egels"
