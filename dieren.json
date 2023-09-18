@@ -4,7 +4,7 @@
 	"items": [{
 			"type": "listItem",
 			"action": {
-				"openPage": "wiki/egels.json"
+				"openPage": "pages/dieren/egels"
 			},
 			"image": "dieren/egel",
 			"text": "Egels"
